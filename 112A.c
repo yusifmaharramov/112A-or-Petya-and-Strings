@@ -22,7 +22,7 @@ int main()
 	{
 		while (str1[i])
 		{
-			str1[i] = tolower(str1[i]);
+			str1[i] = tolower(str1[i]);  // tolower function is used to convert uppercase letters to lowercase letters.
 			i++;
 		}
 
